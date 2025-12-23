@@ -1,0 +1,16 @@
+ONE-HOT ENCODING INFORMATION
+======================================================================
+
+Method: One-Hot Encoding (pd.get_dummies)
+Note: drop_first=True was used to prevent multicollinearity
+
+Original Categorical Columns:
+  - Gender
+  - Profession
+  - Sleep Duration
+  - Dietary Habits
+  - Degree
+  - Financial Stress
+  - Family History of Mental Illness
+
+New Binary Columns Created: 54

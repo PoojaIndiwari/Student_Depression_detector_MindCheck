@@ -1,0 +1,29 @@
+{
+    "Logistic Regression": {
+        "solver": "liblinear",
+        "max_iter": 1000,
+        "C": 0.1
+    },
+    "Random Forest": {
+        "n_estimators": 200,
+        "min_samples_leaf": 2,
+        "max_depth": null,
+        "class_weight": null
+    },
+    "Gradient Boosting": {
+        "n_estimators": 200,
+        "max_depth": 3,
+        "learning_rate": 0.05
+    },
+    "K-Nearest Neighbors": {
+        "weights": "distance",
+        "n_neighbors": 15
+    },
+    "Decision Tree": {
+        "min_samples_leaf": 2,
+        "max_depth": 5
+    },
+    "Naive Bayes": {
+        "var_smoothing": 1e-08
+    }
+}

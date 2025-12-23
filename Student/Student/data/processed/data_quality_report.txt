@@ -1,0 +1,11 @@
+======================================================================
+STUDENT DEPRESSION DATASET - DATA QUALITY REPORT
+Generated: 2025-12-14 13:36:55
+======================================================================
+
+1. DATASET OVERVIEW
+   Total Rows: 27,901
+   Total Columns: 18
+
+2. MISSING VALUES
+   No missing values found

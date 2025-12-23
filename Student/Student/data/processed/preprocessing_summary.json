@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-12-14 14:54:55",
+  "raw_data_shape": [
+    27901,
+    18
+  ],
+  "cleaned_data_shape": [
+    27901,
+    16
+  ],
+  "preprocessed_data_shape": [
+    27901,
+    63
+  ],
+  "target_distribution": {
+    "1": 16336,
+    "0": 11565
+  }
+}

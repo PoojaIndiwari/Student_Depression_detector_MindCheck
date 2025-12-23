@@ -1,0 +1,6 @@
+REMOVED COLUMNS
+==================================================
+
+- City
+- Have you ever had suicidal thoughts ?
+- id

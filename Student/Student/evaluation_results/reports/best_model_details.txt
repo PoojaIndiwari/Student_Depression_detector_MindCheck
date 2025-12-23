@@ -1,0 +1,38 @@
+======================================================================
+BEST MODEL EVALUATION REPORT
+======================================================================
+
+Generated: 2025-12-14 15:45:37
+
+Best Model: Logistic Regression
+Parameters: {'solver': 'liblinear', 'class_weight': None, 'C': 0.1}
+
+PERFORMANCE METRICS:
+--------------------------------------------------
+Accuracy: 0.8455
+F1 Score: 0.8700
+Matthews Correlation Coefficient: 0.6803
+ROC AUC: 0.9185
+
+MEDICAL METRICS (Critical for Healthcare):
+--------------------------------------------------
+Recall (Depressed): 0.8825
+  >> Catches 88.2% of depressed students
+Precision (Depressed): 0.8578
+  >> 85.8% of positive predictions are correct
+Specificity: 0.7933
+  >> Correctly identifies 79.3% of healthy students
+
+CONFUSION MATRIX:
+--------------------------------------------------
+True Negatives (Correctly identified healthy): 1835
+False Positives (Healthy flagged as depressed): 478
+False Negatives (Depressed missed): 384 [WARNING]
+True Positives (Correctly identified depressed): 2884
+
+CLINICAL INTERPRETATION:
+--------------------------------------------------
+GOOD: Acceptable recall - model catches most depressed cases.
+
+Overfitting Check: 0.0024
+GOOD: Good generalization.

@@ -1,0 +1,18 @@
+======================================================================
+PREPROCESSING NOTES FOR MACHINE LEARNING
+======================================================================
+
+1. CATEGORICAL ENCODING:
+   Method: One-Hot Encoding
+   Binary columns created for each category
+   drop_first=True to avoid multicollinearity
+
+2. NUMERIC SCALING:
+   Method: StandardScaler (mean=0, std=1)
+   Applied only to original numeric columns
+
+3. FINAL DATASET:
+   Rows: 27,898
+   Features: 62
+   - Original numeric: 8
+   - Binary encoded: 54

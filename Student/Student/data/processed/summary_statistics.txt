@@ -1,0 +1,98 @@
+======================================================================
+SUMMARY STATISTICS
+======================================================================
+
+NUMERIC VARIABLES:
+                Age  Academic Pressure  Work Pressure          CGPA  Study Satisfaction  Job Satisfaction  Work/Study Hours    Depression
+count  27898.000000       27898.000000        27898.0  27898.000000        27898.000000      27898.000000      27898.000000  27898.000000
+mean      25.822317           3.141551            0.0      7.656927            2.944154          0.000358          7.157251      0.585526
+std        4.905101           1.381155            0.0      1.468642            1.360879          0.028080          3.707613      0.492640
+min       18.000000           0.000000            0.0      0.000000            0.000000          0.000000          0.000000      0.000000
+25%       21.000000           2.000000            0.0      6.290000            2.000000          0.000000          4.000000      0.000000
+50%       25.000000           3.000000            0.0      7.770000            3.000000          0.000000          8.000000      1.000000
+75%       30.000000           4.000000            0.0      8.920000            4.000000          0.000000         10.000000      1.000000
+max       59.000000           5.000000            0.0     10.000000            5.000000          3.000000         12.000000      1.000000
+
+CATEGORICAL VARIABLES:
+
+Gender:
+Gender
+Male      15544
+Female    12354
+
+Profession:
+Profession
+Student                     27867
+Architect                       8
+Teacher                         6
+'Digital Marketer'              3
+Chef                            2
+'Content Writer'                2
+Pharmacist                      2
+Doctor                          2
+'Ux/Ui Designer'                1
+'Civil Engineer'                1
+Manager                         1
+'Educational Consultant'        1
+Lawyer                          1
+Entrepreneur                    1
+
+Sleep Duration:
+Sleep Duration
+'Less Than 5 Hours'    8310
+'7-8 Hours'            7344
+'5-6 Hours'            6182
+'More Than 8 Hours'    6044
+Others                   18
+
+Dietary Habits:
+Dietary Habits
+Unhealthy    10317
+Moderate      9919
+Healthy       7650
+Others          12
+
+Degree:
+Degree
+'Class 12'    6077
+B.Ed          1867
+B.Com         1506
+B.Arch        1478
+Bca           1433
+Msc           1190
+B.Tech        1152
+Mca           1044
+M.Tech        1022
+Bhm            925
+Bsc            888
+M.Ed           821
+B.Pharm        810
+M.Com          734
+Bba            696
+Mbbs           696
+Llb            671
+Be             613
+Ba             600
+M.Pharm        582
+Md             572
+Mba            562
+Ma             544
+Phd            522
+Llm            482
+Mhm            191
+Me             185
+Others          35
+
+Financial Stress:
+Financial Stress
+5    6715
+4    5774
+3    5224
+1    5121
+2    5061
+?       3
+
+Family History of Mental Illness:
+Family History of Mental Illness
+No     14396
+Yes    13502
