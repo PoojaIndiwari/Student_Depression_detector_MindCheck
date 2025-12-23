@@ -6,7 +6,7 @@ This project aims to support early screening and awareness, helping students and
 
 ---
 
-## Key Features
+##Key Features
 
 - Individual mental health assessment via an interactive web form  
 - Machine learning–based risk prediction with confidence scoring  
