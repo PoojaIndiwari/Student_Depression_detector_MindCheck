@@ -2,7 +2,7 @@
 
 MindCheck is an AI-powered web application designed to identify early signs of depression among university students using machine learning. The system analyzes academic pressure, lifestyle habits, and personal factors to assess mental health risk and provide actionable recommendations.
 
-This project aims to support early screening and awareness, helping students and institutions take proactive steps toward mental well-being.
+This project Aims to support early screening and awareness, helping students and institutions take proactive steps toward mental well-being.
 
 ---
 
@@ -21,7 +21,8 @@ This project aims to support early screening and awareness, helping students and
 ## Tech Stack
 
 - **Frontend**: Streamlit, HTML, CSS  
-- **Backend / Machine Learning**: Python, Scikit-learn  
+- **Backend / Machine Learning**: Python, Scikit-learn
+- **Model Development & Experimentation**: Jupyter Notebook  
 - **Visualization**: Plotly  
 - **Modeling**: Random Forest / XGBoost (best model selection)  
 - **Data Handling**: Pandas, NumPy  
@@ -37,18 +38,18 @@ This project aims to support early screening and awareness, helping students and
 - Sleep duration  
 - Dietary habits  
 - CGPA / GPA  
-- Daily work / study hours  
+- Daily work / study hours
+- Suicidal thoughts 
 - Demographic information  
 
 ---
 
 ## ⚠️ Disclaimer
 
-This application is intended for **screening and educational purposes only** and does not replace professional medical diagnosis or treatment.  
-Users experiencing severe distress or suicidal thoughts are strongly encouraged to seek immediate professional help.
+This application is created for **screening and educational purposes only** and does not replace professional medical diagnosis or treatment.  
 
 ---
 
 ## 🌱 Project Goal
 
-To promote early detection, mental health awareness, and the responsible use of AI in educational environments.
+To promote early detection, mental health awareness, and the responsible use of AI in educational and health environments.
